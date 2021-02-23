@@ -10,7 +10,6 @@ Objective:
 Requirements:
 
       Part1:
-      
             Implement one of the classification algorithms introduced in the class (Decision tree, Naïve Bayes or KNN) in any programming language your team chooses. 
             Perform the prediction of whether a wine can achieve 90+ based on their sensory reviews. Apply the chosen algorithm on the training dataset and predict the label for the testing dataset given in the project.
       Part2: 
